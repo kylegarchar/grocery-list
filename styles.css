@@ -1,0 +1,19 @@
+
+
+#refrigerator { display: flex;
+        color: #236149;
+        background-color: #E0D3D3;
+
+}
+
+#pantry { display: flex; 
+        color: #A16263;
+        background-color: #E0D8D3; 
+
+}
+
+h1 { display: flex; 
+        background-color: #62A189;
+color: #613823; }
+
+h3 { padding: 5px 5px 5px 5px ;}
